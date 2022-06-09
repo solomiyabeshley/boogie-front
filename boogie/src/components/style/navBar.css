@@ -1,0 +1,103 @@
+.navbar, .navbar-expand, .navbar-light{
+    background-color: rgba(166, 196, 177, 0.2) !important;
+
+}
+body{
+    scrollbar-width: none;
+    overflow-x: hidden;
+    font-family: montserrat, sans-serif;
+}
+.header-boogie-logo {
+    margin: 0.1%;
+    height: min-content;
+}
+
+.navbar-container {
+    display: flex;
+    flex-direction: column;
+    width: 99vw;
+
+
+}
+.products-navbar{
+    width: 80vw;
+    margin-top: 6%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: montserrat, sans-serif;
+}
+
+
+.navbar-style {
+    display: flex;
+    flex-direction: column;
+}
+
+.navlink-admin-text-style,
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+    margin-top: auto;
+    margin-bottom: auto;
+
+    color: black !important;
+    text-decoration: none;
+    font-size: 16px !important;
+    text-align: center;
+    font-family: montserrat, sans-serif;
+    text-transform: capitalize !important;
+
+    display: flex;
+    align-items: center;
+
+}
+.navlink-admin-text-style:hover{
+    font-weight: bolder;
+}
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+    /*width: 10%;*/
+    border: 0.5px solid rgb(46, 50, 56) !important;
+    border-radius: 0 !important;
+}
+
+.navlink-admin-text-style:hover,
+.navlink-admin-text-style:active,
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root:active {
+    color: #3d5c57;
+    text-decoration: none;
+}
+.navlink-admin-text-style-admin{
+    padding: 0 25px 0 25px;
+    display: flex;
+    flex-direction: row;
+   align-items: center;
+}
+
+
+.navbar-link-add-device {
+    width: 6%;
+}
+
+.main-nav-links {
+    width: 80vw;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+}
+
+.logo-auth-styles {
+    width: 80vw;
+    padding-top: 1%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-top: 0.3px solid black;
+
+}
+.dropdown-item-change-height{
+    margin:5px;
+    font-weight: 500;
+    background-color: rgba(128, 128, 128, 0.1);
+}
+.dropdown-menu{
+ padding:5px 15px 5px 0;
+}

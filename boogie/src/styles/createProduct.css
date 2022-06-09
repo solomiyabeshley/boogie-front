@@ -1,0 +1,11 @@
+.add-sale {
+    display: flex;
+    justify-content: space-between;
+
+}
+.percents {
+    width: 30%;
+}
+.sale {
+    width: 60%;
+}

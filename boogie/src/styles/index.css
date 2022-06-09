@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: montserrat, sans-serif;
+}
+
+.MuiInput-inputSizeSmall {
+    font-size: small;
+}
+
+.auth-body-design {
+    /*background-image: url("https://i.pinimg.com/564x/93/cb/dd/93cbddd4161fd587bea2a1133f461939.jpg");*/
+    /*background-image: url("https://images.squarespace-cdn.com/content/v1/531e8412e4b00720a47a2dd4/1605311064858-JZ4DQPCGPALM3M2P8TDB/simple%2C+earthy+acupuncture+brand+moodboard?format=750w");*/
+    background-image: url("https://i.pinimg.com/564x/db/95/2c/db952ce788db299ab34002d1e4ae5320.jpg");
+}

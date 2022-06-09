@@ -1,0 +1,52 @@
+.carousel-homepage-styles-img {
+    height: 70vh !important;
+    object-fit: cover;
+}
+
+.carousel-homepage-styles-caption {
+    height: 40vh;
+    /*width: 60%;*/
+    background-color: rgba(46, 50, 56, 0.7);
+    display: flex;
+    justify-content: space-evenly;
+    align-content: stretch;
+    align-items: center;
+    flex-direction: column;
+}
+
+.carousel-homepage-styles-caption-slide2 {
+    padding: 10%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 40vh;
+    background-color: rgba(46, 50, 56, 0.8);
+
+}
+
+.carousel-homepage-styles {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.carousel-slide2-button {
+    height: 8vh;
+    width: 15vw;
+    font-size: 24px;
+    text-decoration: none;
+    border: none;
+    color: white;
+    background-color: #a6c4b1;
+}
+.carousel-slide2-button:hover{
+    color: #a6c4b1;
+    background-color: #2E3238;
+}
+.h4-padding{
+    padding: 4%;
+}

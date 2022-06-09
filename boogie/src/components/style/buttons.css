@@ -1,0 +1,58 @@
+.css-MuiButtonBase-root-MuiButton-root {
+    width: 20vw;
+    height: 40px;
+    font-size: 18px;
+    background-color: #3d5c57 !important;
+    border: none;
+}
+
+.css-MuiButtonBase-root-btns {
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+    border: 1px solid #3d5c57;
+    color: #3d5c57;
+}
+
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #3d5c57;
+    border-color: #3d5c57;
+}
+
+.btn-outline-success {
+    color: #3d5c57;
+    border-color: #3d5c57;
+}
+
+.add-price-form {
+    margin-top: 2%;
+}
+
+.add-price-form-field {
+    width: 50%;
+}
+
+.modal-window-add-product {
+    overflow-y: scroll;
+    height: 60vh;
+    padding-right: 2%;
+}
+
+.css-MuiButtonBase-root-MuiButton-root-color {
+    height: 50vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.css-MuiButtonBase-root-MuiButton-root-dropdown-item {
+    margin: 3%;
+    padding-bottom: 3%;
+    font-size: 16px;
+    background-color: rgb(228, 234, 234) !important;
+
+}
